@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Resolved TODO items from previous session
 - Documented config options
+
+## 2026-04-22
+- Reorganised test fixtures
+- Resolved TODO items from previous session
