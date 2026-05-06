@@ -24,3 +24,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Improved error handling in edge cases
 - Reviewed codebase, identified areas for improvement
+
+## 2026-05-06
+- Added inline documentation for core functions
